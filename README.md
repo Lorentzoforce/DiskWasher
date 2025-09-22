@@ -7,5 +7,5 @@ The open-source program is primarily for learning purposes.
 1. Clone the repository:
 ```bash
 git clone https://github.com/Lorentzoforce/DiskWasher.git
-用 Visual Studio 2022 打开解决方案文件（.sln）。
-编译并运行项目。
+Open the solution file (.sln) in Visual Studio 2022.
+Compile and run the project.
